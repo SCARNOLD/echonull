@@ -1,8 +1,5 @@
-⫷ EchoNull Arsenal Manifest ⫸
-Symbolic Tag     : vX-20250802
-Entropy Signature: ECH0-XRNL-C931-7218
-Synthesis Module : Behavioral v3.1
-Threat Model     : Adaptive Stealth v2.4
-Branding Vector  : Encrypted Elegance
-Modules Updated  : 12
-Timestamp        : Sat Aug  2 06:14:59 UTC 2025
+EchoNull Arsenal
+Encrypted Elegance | Tactical Precision
+Modules: RED / BLUE
+Integrity: Verified
+Stealth: Activated
