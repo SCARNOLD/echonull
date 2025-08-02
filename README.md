@@ -1,3 +1,4 @@
+![EchoNull Arsenal vX](https://img.shields.io/badge/EchoNull_Arsenal-vX_20250802-11C4?style=for-the-badge&logo=codeforces&logoColor=white&color=black)
 # EchoNull Arsenal 🕶️
 
 EchoNull is a stealth-grade cybersecurity toolkit engineered for encrypted audio capture, behavioral synthesis, and resilient deployment. Built with modular precision and symbolic elegance, it operates silently and securely across hostile environments.
